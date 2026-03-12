@@ -49,17 +49,6 @@ So this repo is basically documentation practice disguised as learning notes.
 
 ---
 
-## Structure
-
-The repo will roughly look like this:
-
-```
-language-name/
-  notes.md
-  experiments/
-  small-programs/
-```
-
 Inside you'll find things like:
 
 - Syntax notes
@@ -86,12 +75,7 @@ You will see:
 
 There will also occasionally be cursing, because sometimes the only appropriate response to a compiler error is profanity.
 
-But you will also see:
-
-- Curiosity
-- Persistence
-- Iteration
-- Actual understanding forming over time
+This will be a my 5 stages of grief.
 
 Which, frankly, is what learning engineering looks like in real life.
 
@@ -111,6 +95,8 @@ Which, frankly, is what learning engineering looks like in real life.
 ## If You Are Also Learning
 
 Feel free to steal anything from here.
+
+LICENSE: DO WHATEVER YOU WANT ¯\_(ツ)_/¯
 
 Seriously.
 
