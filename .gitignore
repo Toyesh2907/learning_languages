@@ -1,1 +1,4 @@
 *.exe
+compile_commands.json
+compile_flags.txt
+
